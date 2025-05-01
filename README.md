@@ -22,9 +22,11 @@
 
 ## Species and Temperature Patterns
 
+---
+
 ####  Red-winged Blackbird
 
-.ve-media wc:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg right width=200%
+.ve-media wc:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg center width=200%
 
 Image: [red winged blackbird major donnelly park](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg)
 
@@ -39,7 +41,7 @@ Image: [red winged blackbird major donnelly park](https://commons.wikimedia.org/
 
 ####  Groundhog 
 
-.ve-media wc:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg right width=200%
+.ve-media wc:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg center width=200%
 
 Image: [Marmota monax por Rodrigo Tetsuo Argenton 06](https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg)
 <a href="https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg">Rodrigo.Argenton</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
@@ -54,7 +56,7 @@ Image: [Marmota monax por Rodrigo Tetsuo Argenton 06](https://commons.wikimedia.
 
 #### American Robin
 
-.ve-media wc:American_robin_(71307).jpg right width=200%
+.ve-media wc:American_robin_(71307).jpg center width=200%
 
 Image: [American robin (71307)](https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg)
 
