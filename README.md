@@ -101,3 +101,7 @@ ANALYSIS TEXT GOES HERE
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg)
 
 ---
+
+
+# QUESTION:
+## Should I incorporate a more scientific explanation for each species of why they are the first indicators of spring, or should I have explanations that are more rooted in indegenous knowledges and traditions (ex: groundhog day) and how these species have become to be percieved as first indications of spring -- or mix of both?
