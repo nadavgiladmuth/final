@@ -1,38 +1,45 @@
----
-title: Spring Watchers: Charting Seasonal Shifts Through Urban Wildlife in Philadelphia
-author: Nadav Gilad-Muth
-date: 2025-04-29
-
----
-
-# Spring Watchers: Charting Seasonal Shifts Through Urban Wildlife in Philadelphia
+# Signs of Spring 
+## Charting Seasonal Shifts Through Urban Wildlife in Philadelphia
 
 Each year, as winter recedes, familiar animals return to Philadelphia — the Red-winged Blackbird’s trills pierce the still air, Robins hop across melting lawns, and Groundhogs emerge from hibernation. This project explores these species as **seasonal indicators**, proposing that urban wildlife can reflect ecological transitions.
 
-While **Punxsutawney Phil** gets the fanfare each February 2nd, real Groundhogs wait until spring *actually* arrives. With iNaturalist and NOAA data, this essay asks:  
-**_Can we use common urban species to measure the arrival of spring in Philadelphia?_**
+.ve-media wc:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg right width=100%
+
+Image: [Marmota monax por Rodrigo Tetsuo Argenton 06](https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg)
+<a href="https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg">Rodrigo.Argenton</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+
+
+
+
+.ve-media wc:American_robin_(71307).jpg right width=100%
+
+Image: [American robin (71307)](https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg)
+
+<a href="https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg">Rhododendrites</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+
+
+
+.ve-media wc:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg right width=100%
+
+Image: [red winged blackbird major donnelly park](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg)
+
+<a href="https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg">Paul Danese</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+
 
 ## Methodology
 
-Using 2024 data, I focused on three species:
 
-- **Red-winged Blackbird** (*Agelaius phoeniceus*)  
-- **Groundhog** (*Marmota monax*)  
-- **American Robin** (*Turdus migratorius*)  
-
-From iNaturalist, I extracted all 2024 Philadelphia County observations and counted how often each species was seen per day. Then, I added daily temperature records from the NOAA Climate Data Online tool. Using Excel, I:
-
-- Standardized dates across both datasets  
-- Aggregated species counts by day  
-- Calculated average daily temperatures (mean of max and min)  
-- Joined species and weather data  
-- Created interactive line charts using **Flourish**
-
-All visualizations are embedded below.
 
 ## Species and Temperature Patterns
 
-### Red-winged Blackbird vs. Temperature
+### Red-winged Blackbird
+
+.ve-media wc:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg right width=100%
+
+Image: [red winged blackbird major donnelly park](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg)
+
+<a href="https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg">Paul Danese</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/22938074"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/22938074/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
