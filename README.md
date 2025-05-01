@@ -26,6 +26,8 @@
 
 ###  Red-winged Blackbird
 
+- red-winged blackbird informative text goes here - 
+
 .ve-media wc:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg center width=85%
 
 Image: [red winged blackbird major donnelly park](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg)
@@ -40,6 +42,10 @@ Image: [red winged blackbird major donnelly park](https://commons.wikimedia.org/
 ---
 
 ###  Groundhog 
+
+- groundhog informative text goes here - 
+
+
 
 .ve-media wc:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg center width=85%
 
@@ -56,6 +62,10 @@ Image: [Marmota monax por Rodrigo Tetsuo Argenton 06](https://commons.wikimedia.
 ---
 
 ### American Robin
+
+
+- american robin informative text goes here - 
+
 
 .ve-media wc:American_robin_(71307).jpg center width=85%
 
