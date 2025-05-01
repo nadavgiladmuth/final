@@ -1,5 +1,4 @@
-# Signs of Spring 
-## Charting Seasonal Shifts Through Urban Wildlife in Philadelphia
+# Signs of Spring: Charting Seasonal Shifts Through Urban Wildlife in Philadelphia
 
 
 - INTRODUCTION TEXT GOES HERE - 
