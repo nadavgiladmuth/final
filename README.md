@@ -1,11 +1,7 @@
 # Signs of Spring: Charting Seasonal Shifts Through Urban Wildlife in Philadelphia
 
 
-For this project, I was interested in exploring the relationship between seasonal temperature changes and the appearance of species commonly associated with spring in Philadelphia. In order to explore this question I turned to the urban wildlife in Philadelphia County, specifically, when commonly seen animals like Red-winged Blackbirds, Groundhogs, and American Robins begin to appear. These species are often considered informal indicators of seasonal change, mentioned in everything from Indigenous knowledge to things I have heard growing up or learned in school. I wanted to see whether I could create a data visualization that would support what people already seem to sense: that nature, not the calendar, tells us when spring has arrived.
-
-By combining 2024 iNaturalist sightings with NOAA daily temperature data, I looked for patterns between warmer days and spikes in animal observations. I wasn’t just interested in verifying a hypothesis — I wanted to understand how our everyday experience of changing seasons might align with broader ecological rhythms. Can animals serve as signs of spring in a way that complements both science and culture?
-
-
+For this project, I was interested in exploring the relationship between seasonal temperature changes and the appearance of species commonly associated with spring in Philadelphia. In order to explore this question I turned to the urban wildlife in Philadelphia County, specifically, when commonly seen animals like Red-winged Blackbirds, Groundhogs, and American Robins begin to appear. These species are often considered informal indicators of seasonal change, mentioned in everything from Indigenous knowledge to things I have heard growing up or learned in school. I wanted to see whether I could create a data visualization that would support this notion and see if local species can really tell us whether Spring has arrived. Specifically, I wanted to answer the question if animals can serve as signs of spring in a way that complements both science and culture?
 
 
 
