@@ -89,12 +89,11 @@ This comparison chart shows that American Robins consistently appear first, with
 ## ANALYSIS
 
 
-
-ANALYSIS TEXT GOES HERE
-
-
-
-
+Across cultures and scientific traditions, wildlife behavior has long been used as a sign of seasonal change. For many Indigenous communities, the return or emergence of specific animals signals shifts in the earth's cycles—knowledge built from generations of close observation and environmental relationship. In this project I have attempted to compare such culturally and ecologically meaningful patterns to local temperature data in Philadelphia, using citizen science records to ask: can animals serve as signs of spring in a way that complements both science and culture?
+In the case of the American Robin (Turdus migratorius), they are considered to be the first sign of spring in several Indigenous North American traditions. It is believed that their reappearance in northern regions signals a transition in the land’s energy and a return of warmth. Scientifically, this aligns with their migratory behavior. Many robins overwinter in the southern U.S. and begin their northward movement as soon as the ground thaws and insects become available. In Philadelphia, the first robin sighting recorded in 2024 occurred on March 5th, soon after average daily temperatures began to consistently rise above freezing. Sightings increased rapidly in step with temperature, reinforcing both the cultural and ecological understanding of robins as one of the earliest indicators of spring.
+Similarly, Red-winged Blackbirds (Agelaius phoeniceus) are significant in the seasonal calendars of several Indigenous groups, often associated with marshlands and wetlands coming back to life after winter. Their calls are said to signal that water is moving again and plants are beginning to grow. These birds also exhibit similar migration patterns to Robins and tend to return to breeding sites as temperatures increase. In the Philadelphia dataset, their first sighting occurred on March 19th, with numbers rising steadily into April and May. This pattern aligns with the indigenous culture’s framing of blackbirds as part of spring’s soundscape and the ecological explanation of their return to wetland territories as ice melts and insects reappear.
+Groundhogs (Marmota monax), or woodchucks, are perhaps the most publicly recognized seasonal forecasters in the U.S., thanks to the tradition of Groundhog Day and figures like Punxsutawney Phil. But this cultural practice has deeper roots. Among Indigenous communities in the northeast, groundhogs are seen as timekeepers whose hibernation cycle is linked closely to the health of the land. Emerging too early could signal climate confusion; emerging late might mean the ground is still too cold or unstable. In this dataset, the first 2024 sighting was on April 7th—later than the birds and after several weeks of warming temperatures. While the number of observations is lower, this fits what science knows about their hibernation biology: they emerge only when the ground has thawed enough to support the growth of plants that they use as their food source.
+However, it’s important to note that this data, while compelling, reflects not just ecological patterns but human behavior. Citizen science platforms like iNaturalist rely on people being in the right place at the right time to log what they see. That means the dataset may be incomplete or biased and that certain areas, times of day, or species may be underreported. The trends observed here align with scientific and traditional expectations, but they should be seen as suggestive rather than concrete facts.
 
 
 ---
@@ -107,6 +106,18 @@ ANALYSIS TEXT GOES HERE
 [NOAA](https://www.ncei.noaa.gov/cdo-web/confirmation)
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg)
+
+[Audubon – American Robin](https://www.audubon.org/field-guide/bird/american-robin)
+
+[Audubon – Red-winged Blackbird](https://www.audubon.org/field-guide/bird/red-winged-blackbird)
+
+[National Wildlife Federation – Groundhog](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Groundhog)
+
+[U.S. Forest Service – Phenology and Indigenous Knowledge](https://www.fs.usda.gov/inside-fs/delivering-mission/sustain/phenology-and-indigenous-knowledge)
+
+[Native Land Digital – Indigenous Land Acknowledgment Tool](https://native-land.ca/)
+
+[Groundhog Day History – History.com](https://www.history.com/news/groundhog-day-origins)
 
 ---
 
