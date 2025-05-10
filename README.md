@@ -109,11 +109,11 @@ However, it’s important to note that this data, while compelling, reflects not
 
 - NOAA. (2024). *NOAA Climate Data Online*. [https://www.ncei.noaa.gov/cdo-web/confirmation](https://www.ncei.noaa.gov/cdo-web/confirmation)
 
-- Danese, P. (2024). *Red-winged Blackbird, Major Donnelly Park*. [https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- Danese, P. (2024). *Red-winged Blackbird, Major Donnelly Park*. [https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg) 
 
-- Argenton, R. T. (2024). *Marmota monax por Rodrigo Tetsuo Argenton 06*. [https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg](https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- Argenton, R. T. (2024). *Marmota monax por Rodrigo Tetsuo Argenton 06*. [https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg](https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg) 
 
-- Rhododendrites. (2024). *American Robin (71307)*. [https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg](https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- Rhododendrites. (2024). *American Robin (71307)*. [https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg](https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg) 
 
 - Audubon Society. (2024). *American Robin*. [https://www.audubon.org/field-guide/bird/american-robin](https://www.audubon.org/field-guide/bird/american-robin)
 
