@@ -38,7 +38,7 @@ Image: [red winged blackbird major donnelly park](https://commons.wikimedia.org/
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/22938074"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/22938074/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
- - QUICK DESCRIPTION - 
+In this graph, you can see Red-winged Blackbird sightings begin to rise steadily in March with the first observation recorded in Philadelphia County on March 19th, closely following the seasonal increase in average temperature.  We can see as temperatures begin increasing through March and into April, the number of Red-winged Blackbirds steadily rises, suggesting a strong positive correlation between these two variables. 
 
 ---
 
