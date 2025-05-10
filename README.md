@@ -111,7 +111,7 @@ However, it’s important to note that this data, while compelling, reflects not
 
 [Audubon – Red-winged Blackbird](https://www.audubon.org/field-guide/bird/red-winged-blackbird)
 
-[National Wildlife Federation – Groundhog](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Groundhog)
+[National Wildlife Federation – Groundhog](https://blog.nwf.org/2011/01/10-things-you-may-not-know-about-groundhogs/)
 
 [U.S. Forest Service – Phenology and Indigenous Knowledge](https://www.fs.usda.gov/inside-fs/delivering-mission/sustain/phenology-and-indigenous-knowledge)
 
