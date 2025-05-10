@@ -82,7 +82,7 @@ In this graph, March 5th marks the first sighting of an American Robin in Philad
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/22940318"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/22940318/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
-- TRENDS & DESCRIPTION - 
+This comparison chart shows that American Robins consistently appear first, with a noticeable rise in sightings beginning at the start of March. Red-winged Blackbirds follow closely behind in mid-March, and Groundhogs follow them, with the first appearance taking place in early April. This staggered return mirrors the warming pattern shown in the NOAA temperature data. You can use the toggle feature to isolate or compare species, making it easier to see how each responds to rising temperatures differently.
 
 ---
 
