@@ -105,25 +105,36 @@ However, it’s important to note that this data, while compelling, reflects not
 ## Bibliography
 - Flourish. (2024). *Signs of Spring: Charting Seasonal Shifts Through Urban Wildlife in Philadelphia*. [https://public.flourish.studio/visualisation/22938074/](https://public.flourish.studio/visualisation/22938074/)
 
+
 - iNat. (2024). *iNaturalist 2024 Observation Export*. [https://www.inaturalist.org/observations/export?flow_task_id=563608](https://www.inaturalist.org/observations/export?flow_task_id=563608)
+
 
 - NOAA. (2024). *NOAA Climate Data Online*. [https://www.ncei.noaa.gov/cdo-web/confirmation](https://www.ncei.noaa.gov/cdo-web/confirmation)
 
+
 - Danese, P. (2024). *Red-winged Blackbird, Major Donnelly Park*. [https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg) 
+
 
 - Argenton, R. T. (2024). *Marmota monax por Rodrigo Tetsuo Argenton 06*. [https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg](https://commons.wikimedia.org/wiki/File:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg) 
 
+
 - Rhododendrites. (2024). *American Robin (71307)*. [https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg](https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg) 
+
 
 - Audubon Society. (2024). *American Robin*. [https://www.audubon.org/field-guide/bird/american-robin](https://www.audubon.org/field-guide/bird/american-robin)
 
+
 - Audubon Society. (2024). *Red-winged Blackbird*. [https://www.audubon.org/field-guide/bird/red-winged-blackbird](https://www.audubon.org/field-guide/bird/red-winged-blackbird)
+
 
 - National Wildlife Federation. (2024). *Groundhog: 10 Things You May Not Know About Groundhogs*. [https://blog.nwf.org/2011/01/10-things-you-may-not-know-about-groundhogs/](https://blog.nwf.org/2011/01/10-things-you-may-not-know-about-groundhogs/)
 
+
 - U.S. Forest Service. (2024). *Phenology and Indigenous Knowledge*. [https://www.fs.usda.gov/inside-fs/delivering-mission/sustain/phenology-and-indigenous-knowledge](https://www.fs.usda.gov/inside-fs/delivering-mission/sustain/phenology-and-indigenous-knowledge)
 
+
 - The Hill. (2024). *The History of Groundhog Day Is More Complex Than You May Think*. [https://thehill.com/changing-america/enrichment/arts-culture/3840820-the-history-of-groundhog-day-is-more-complex-than-you-may-think/](https://thehill.com/changing-america/enrichment/arts-culture/3840820-the-history-of-groundhog-day-is-more-complex-than-you-may-think/)
+
 
 ---
 
