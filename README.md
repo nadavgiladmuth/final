@@ -115,8 +115,6 @@ However, it’s important to note that this data, while compelling, reflects not
 
 [U.S. Forest Service – Phenology and Indigenous Knowledge](https://www.fs.usda.gov/inside-fs/delivering-mission/sustain/phenology-and-indigenous-knowledge)
 
-[Native Land Digital – Indigenous Land Acknowledgment Tool](https://native-land.ca/)
-
 [The history of Groundhog Day is more complex than you may think – The Hill](https://thehill.com/changing-america/enrichment/arts-culture/3840820-the-history-of-groundhog-day-is-more-complex-than-you-may-think/)
 
 
