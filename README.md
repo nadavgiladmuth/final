@@ -44,8 +44,7 @@ In this graph, you can see Red-winged Blackbird sightings begin to rise steadily
 
 ###  Groundhog 
 
-- groundhog informative text goes here - 
-
+Groundhogs *(Marmota monax)*, also known as woodchucks, are found throughout the eastern and central United States, often in grassy fields, forest edges, and urban green spaces. They hibernate through winter and re-emerge in the Spring when the ground begins to thaw.
 
 
 .ve-media wc:Marmota_monax_por_Rodrigo_Tetsuo_Argenton_06.jpg center width=85%
@@ -57,16 +56,14 @@ Image: [Marmota monax por Rodrigo Tetsuo Argenton 06](https://commons.wikimedia.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/22939766"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/22939766/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
- - QUICK DESCRIPTION - 
-
+In this graph we can observe that the first groundhog sighting in Philadelphia County occurred on April 7th, slightly after the increase of temperatures in March. While there are less observations of groundhogs to provide a more substantial trend, this still suggests that there is a correlation in the  increase in temperatures and groundhog sightings over a similar range of dates.
 
 ---
 
 ### American Robin
 
 
-- american robin informative text goes here - 
-
+American Robins *(Turdus migratorius)* are widespread across the U.S. and Canada and are well-known for their adaptability to suburban and urban environments. While some overwinter in southern regions, many robins migrate north in early spring, appearing just in time for Spring.
 
 .ve-media wc:American_robin_(71307).jpg center width=85%
 
@@ -77,7 +74,7 @@ Image: [American robin (71307)](https://commons.wikimedia.org/wiki/File:American
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/22940048"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/22940048/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
-- QUICK DESCRIPTION - 
+In this graph, March 5th marks the first sighting of an American Robin in Philadelphia County. This graph depicts the strongest correlation between increasing temperatures and Robin sightings, with the increased temperature dates directly mirroring the increased number of Robin sightings. This pattern suggests that Robins may be one of the more reliable biological indicators for the beginning of Spring temperatures. 
 
 ---
 
