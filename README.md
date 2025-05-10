@@ -103,23 +103,16 @@ However, it’s important to note that this data, while compelling, reflects not
 ---
 
 ## Bibliography
-- Audubon. (n.d.). *American Robin*. https://www.audubon.org/field-guide/bird/american-robin
+- [Audubon – American Robin](https://www.audubon.org/field-guide/bird/american-robin). (n.d.). *American robin*. Audubon.  
+- [Audubon – Red-winged Blackbird](https://www.audubon.org/field-guide/bird/red-winged-blackbird). (n.d.). *Red-winged blackbird*. Audubon.  
+- [Flourish](https://public.flourish.studio/visualisation/22938074/). (n.d.). *Interactive visualization of seasonal bird sightings*.  
+- [iNaturalist](https://www.inaturalist.org/observations/export?flow_task_id=563608). (n.d.). *Observation export*.  
+- [NOAA](https://www.ncei.noaa.gov/cdo-web/confirmation). (n.d.). *Climate data confirmation*. National Centers for Environmental Information.  
+- [National Wildlife Federation – Groundhog](https://blog.nwf.org/2011/01/10-things-you-may-not-know-about-groundhogs/). (2011, January 28). *10 things you may not know about groundhogs*.  
+- [U.S. Forest Service – Phenology and Indigenous Knowledge](https://www.fs.usda.gov/inside-fs/delivering-mission/sustain/phenology-and-indigenous-knowledge). (n.d.). *Phenology and Indigenous knowledge*. U.S. Department of Agriculture.  
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg). (2024, May 25). *Red-winged blackbird at Major Donnelly Park* [Photograph].  
+- [The Hill – History of Groundhog Day](https://thehill.com/changing-america/enrichment/arts-culture/3840820-the-history-of-groundhog-day-is-more-complex-than-you-may-think/). (2023, February 2). *The history of Groundhog Day is more complex than you may think*. *The Hill*.
 
-- Audubon. (n.d.). *Red-winged Blackbird*. https://www.audubon.org/field-guide/bird/red-winged-blackbird
-
-- Flourish. (n.d.). *Interactive visualization of seasonal bird sightings*. https://public.flourish.studio/visualisation/22938074/
-
-- iNaturalist. (n.d.). *Observation export*. https://www.inaturalist.org/observations/export?flow_task_id=563608
-
-- National Oceanic and Atmospheric Administration (NOAA). (n.d.). *Climate data confirmation*. https://www.ncei.noaa.gov/cdo-web/confirmation
-
-- National Wildlife Federation. (2011, January 28). *10 things you may not know about groundhogs*. https://blog.nwf.org/2011/01/10-things-you-may-not-know-about-groundhogs/
-
-- U.S. Forest Service. (n.d.). *Phenology and Indigenous knowledge*. https://www.fs.usda.gov/inside-fs/delivering-mission/sustain/phenology-and-indigenous-knowledge
-
-- Wikimedia Commons. (2024, May 25). *Red-winged blackbird at Major Donnelly Park* [Photograph]. https://commons.wikimedia.org/wiki/File:20240525_red_winged_blackbird_major_donnelly_park_PD206287.jpg
-
-- Yurkanin, A. (2023, February 2). *The history of Groundhog Day is more complex than you may think*. *The Hill*. https://thehill.com/changing-america/enrichment/arts-culture/3840820-the-history-of-groundhog-day-is-more-complex-than-you-may-think/
 
 
 
